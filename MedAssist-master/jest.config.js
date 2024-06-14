@@ -1,3 +1,9 @@
 module.exports = {
-  preset: 'react-native',
+  preset: 'eact-native',
+  // Add any additional configurations here
+  // For example:
+   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
+  // transform: {...},
+  // moduleNameMapper: {...},
+  //... other config options...
 };
